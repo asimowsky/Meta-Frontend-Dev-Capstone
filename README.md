@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Project Name
+This is the README file for the capstone project of my Meta Front-End Developer Certificate. The project is titled Little Lemon Restaurant.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Overview
+Little Lemon Restaurant is a web application developed using React, Tailwind CSS, react-hot-toast, Jest, react-router-dom, and i18next for translation. The app includes various features such as image animation, responsive design, multilingual support (English, French, German), page routing using react-router, toast notifications with react-hot-toast, and a reservation form for reserving organization at Little Lemon Restaurant. Additionally, it includes a contact page with a contact form.
 
-## Available Scripts
+# Installation
+To run this project locally, please follow these steps:
 
-In the project directory, you can run:
+Clone the repository: git clone https://github.com/asimowsky/Meta-Frontend-Dev-Capstone.git
+Navigate to the project directory: cd Meta-Frontend-Dev-Capstone
+Install dependencies: npm install
+Start the development server: npm start
+The application will then be accessible at http://localhost:3000.
 
-### `npm start`
+# Features
+Image Animation
+The web app incorporates image animation to enhance the user experience and make the interface more engaging.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Responsive Design
+The application is built with a responsive design, ensuring that it adapts and looks great on different devices and screen sizes.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Multilingual Support
+Little Lemon Restaurant supports three languages: English, French, and German. The i18next library is used for translation purposes, allowing users to switch between languages seamlessly.
 
-### `npm test`
+Page Routing
+React Router is utilized for page routing, enabling users to navigate through different sections of the web app easily.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Toast Notifications
+Toast notifications are implemented using the react-hot-toast library. Users receive notifications when performing certain actions, providing them with feedback and updates.
 
-### `npm run build`
+Reservation Form
+The main feature of the app is a reservation form for reserving an organization at Little Lemon Restaurant. When a user makes a reservation, the data is saved to local storage, and the reservation details are displayed as cards below the form. Users also have the ability to delete a reservation if needed.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Contact Page
+The application includes a contact page with a contact form. Users can fill out the form to get in touch with the organization or leave feedback.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Technologies Used
+React: JavaScript library for building user interfaces.
+Tailwind CSS: Utility-first CSS framework.
+react-hot-toast: Library for toast notifications.
+Jest: JavaScript testing framework.
+react-router-dom: Declarative routing for React applications.
+i18next: Internationalization framework for translating web apps.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Future Enhancements
+Here are some potential areas for future enhancements:
 
-### `npm run eject`
+Adding user authentication for personalized reservations and contact interactions.
+Implementing a backend server to store reservation data securely.
+Improving accessibility by adding proper ARIA attributes and focus management.
+Enhancing the reservation form with validation and input restrictions.
+Integrating an external map API to display the location of Little Lemon Restaurant.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Contributions
+Contributions to this project are currently not open. However, you're welcome to fork the repository and make any modifications or improvements for your personal use.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# License
+This project is licensed under the MIT. Feel free to review the LICENSE file for more information.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Acknowledgments
+Special thanks to META Team for their guidance and support throughout the capstone project.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Contact
+For any questions or inquiries regarding this project, please contact Me at kebirasim@hotmail.com.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to visit my GitHub profile: https://github.com/asimowsky
