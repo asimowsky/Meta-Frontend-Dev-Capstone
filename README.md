@@ -2,6 +2,9 @@
 
 This is the README file for the capstone project of my Meta Front-End Developer Certificate. The project is titled Little Lemon Restaurant.
 
+# Project Link
+https://littlelemon-vert.vercel.app/
+
 # Overview
 Little Lemon Restaurant is a web application developed using React, Tailwind CSS, react-hot-toast, Jest, react-router-dom, and i18next for translation. The app includes various features such as image animation, responsive design, multilingual support (English, French, German), page routing using react-router, toast notifications with react-hot-toast, and a reservation form for reserving organization at Little Lemon Restaurant. Additionally, it includes a contact page with a contact form.
 
