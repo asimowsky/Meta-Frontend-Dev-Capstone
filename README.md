@@ -1,4 +1,6 @@
 # Project Name
+![littleLemon](https://github.com/asimowsky/Meta-Frontend-Dev-Capstone/assets/35933971/260b736a-a74f-48a1-b395-6774473a2625)
+
 This is the README file for the capstone project of my Meta Front-End Developer Certificate. The project is titled Little Lemon Restaurant.
 
 # Overview
@@ -65,3 +67,17 @@ Special thanks to META Team for their guidance and support throughout the capsto
 For any questions or inquiries regarding this project, please contact Me at kebirasim@hotmail.com.
 
 Feel free to visit my GitHub profile: https://github.com/asimowsky
+![home1](https://github.com/asimowsky/Meta-Frontend-Dev-Capstone/assets/35933971/df2831c0-8ea6-4020-a4d1-ba626f779449)
+
+![home2](https://github.com/asimowsky/Meta-Frontend-Dev-Capstone/assets/35933971/ce0595e0-9a76-4b80-9c4a-c9883c64c2da)
+
+![home3](https://github.com/asimowsky/Meta-Frontend-Dev-Capstone/assets/35933971/cf7ae858-2abb-4f90-ada4-8fcf0177f7c6)
+
+![home4](https://github.com/asimowsky/Meta-Frontend-Dev-Capstone/assets/35933971/6da48ada-e406-45b4-b8e8-3d8a1aa4b96e)
+
+![reservation1](https://github.com/asimowsky/Meta-Frontend-Dev-Capstone/assets/35933971/14a77dff-f214-409f-9cfb-51bd7722254a)
+
+![reservation2](https://github.com/asimowsky/Meta-Frontend-Dev-Capstone/assets/35933971/a5ed7079-d9d7-40d1-9815-9e3eb47073af)
+
+![contact](https://github.com/asimowsky/Meta-Frontend-Dev-Capstone/assets/35933971/0f733870-650c-466d-a0fa-1171fec2b468)
+
