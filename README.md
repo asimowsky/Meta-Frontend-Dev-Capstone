@@ -1,5 +1,4 @@
 # Project Name
-![littleLemon](https://github.com/asimowsky/Meta-Frontend-Dev-Capstone/assets/35933971/260b736a-a74f-48a1-b395-6774473a2625)
 
 This is the README file for the capstone project of my Meta Front-End Developer Certificate. The project is titled Little Lemon Restaurant.
 
@@ -56,6 +55,7 @@ Integrating an external map API to display the location of Little Lemon Restaura
 
 # Contributions
 Contributions to this project are currently not open. However, you're welcome to fork the repository and make any modifications or improvements for your personal use.
+Some images are used from unsplash and pexels (Free) also some free icons from flaticon.
 
 # License
 This project is licensed under the MIT. Feel free to review the LICENSE file for more information.
