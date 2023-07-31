@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --foreground-rgb: 0, 0, 0;
+    --background-start-rgb: 214, 219, 220;
+    --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --foreground-rgb: 255, 255, 255;
+        --background-start-rgb: 0, 0, 0;
+        --background-end-rgb: 0, 0, 0;
+    }
+}
+
+/* Hide the default scroll bar */
+*::-webkit-scrollbar {
+    width: 5px; /* Adjust the width as per your preference */
+}
+
+/* Track */
+*::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+*::-webkit-scrollbar-thumb {
+    background: #888; /* Set the color of the scroll bar thumb */
+    border-radius: 5px; /* Round the corners of the thumb */
+}
+
+/* Handle on hover */
+*::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Set the color of the scroll bar thumb on hover */
+}
+
+body {
+    color: rgb(var(--foreground-rgb));
+}
+
+#hero {
+    background-image: url("../images/backgroundimage.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+#reservations {
+    background-image: url("../images/reservationbg.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+#contact {
+    background-image: url("../images/contactbg.jpeg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+#products {
+    background-color: white;
+    height: 100%;
+}
+
+#hero img {
+    object-fit: cover;
+}
+
+.imgPlace {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.logo {
+    width: 30px;
+    object-fit: cover;
+    aspect-ratio: 4/3;
+}
+
+.bg_color {
+    background-color: rgba(0, 0, 0, 0.479);
+}
+
+.rotate {
+    width: 100px;
+    animation: rotation 6s infinite linear;
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(359deg);
+    }
+}
